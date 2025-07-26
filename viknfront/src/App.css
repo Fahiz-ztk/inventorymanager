@@ -1,0 +1,15 @@
+body,
+html,
+#root {
+  background-color: rgba(var(--bs-dark-rgb));
+  color: white;
+  height: 100%;
+  margin: 0;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+.w-75{
+  max-width: 75%;
+}
